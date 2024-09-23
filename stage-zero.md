@@ -14,7 +14,7 @@ The term "Curse of Dimensionality" refers to the numerous difficulties and compl
 
 Genetic changes cause normal human cells to gradually change into malignant derivatives, a process known as carcinogenesis. After deoxyribonucleic acid (DNA) damage is induced, normal cells change their metabolism becoming cancerous transformed cells. After this point, proliferation is uncontrolled until forming a tumor mass. Cancerous cells may invade other adjacent or distant tissues through the new vessels formed to grow and form a new secondary tumor (Guamán-Ortiz, 2019).
 
-![Diagram of cancer development](https://github.com/lvillad/hbinternship/blob/main/Imagen1.png?raw=true)
+![Diagram of cancer development](https://github.com/lvillad/hbinternship/blob/main/cancer-diagram.png?raw=true)
 
 **Figure 1.** Schematic representation of cancer development (Guamán-Ortiz, 2019).
 
