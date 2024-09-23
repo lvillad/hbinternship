@@ -1,9 +1,6 @@
 **The Curse of Dimensionality: A Haunting Challenge for Cancer Research**
 
 Author (@slack): Leticia Villadangos (@leticia)
-
-Github Repo:[ https://github.com/lvillad/hbinternship](https://github.com/lvillad/hbinternship)
-
  
 
 The term "Curse of Dimensionality" refers to the numerous difficulties and complexities that come up while organizing and interpreting data in high-dimensional spaces (Coelho _et al._, 2023). Within the area of cancer research, this problem may difficult the inference of cancer classification models, encouraging the search for solutions.
