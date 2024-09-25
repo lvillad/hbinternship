@@ -14,13 +14,15 @@ The term "Curse of Dimensionality" refers to the numerous difficulties and compl
 
 Genetic changes cause normal human cells to gradually change into malignant derivatives, a process known as carcinogenesis. After deoxyribonucleic acid (DNA) damage is induced, normal cells change their metabolism becoming cancerous transformed cells. After this point, proliferation is uncontrolled until forming a tumor mass. Cancerous cells may invade other adjacent or distant tissues through the new vessels formed to grow and form a new secondary tumor (Guamán-Ortiz, 2019).
 
-![Diagram of cancer development](https://github.com/lvillad/hbinternship/blob/main/cancer-diagram.png?raw=true)
+![Diagram of cancer development](https://github.com/lvillad/hbinternship/blob/main/cancer-diagram.png?raw=true) 
 
 **Figure 1.** Schematic representation of cancer development (Guamán-Ortiz, 2019).
 
 Certain genes that are expressed differently in various tumor types can be found using gene expression microarrays, which have been shown to be useful for classifying various cancer types. However, gene expression data sets are complex and often include thousands of attributes (genes) and a small number of examples (patients), which makes the creation of cancer classification models difficult. Additionally, there is a substantial component of noise in these samples, resulting from numerous sources of variation affecting expression measurements (Mramor _et al._, 2005).
 
+
  
+
 
 **Conquering the Curse of Dimensionality in Gene Expression Cancer Diagnosis**
 
